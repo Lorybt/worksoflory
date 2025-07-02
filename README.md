@@ -4,7 +4,8 @@
 
 Projeto com o objetivo de gerar um eBook digital com foco em **análise de dados**, utilizando comandos SQL em contextos reais. Todo o conteúdo foi gerado com auxílio de ferramentas de Inteligência Artificial.
 
-📕 **[Clique aqui para ler o eBook](./output/ebook_sql_para_analise_de_dados.pdf)**
+📕 **[Clique aqui para ler o eBook](https://github.com/Lorybt/worksoflory/blob/main/Ebook%20Analise%20de%20dados%20-%20Lorena%20Tarabauka.pdf))**
+
 
 ---
 
